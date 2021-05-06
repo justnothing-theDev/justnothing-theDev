@@ -2,7 +2,6 @@
 - 👀 Code Addiction :)
 - 🌱 Mastering JavaScript
 - 💞️ :)
-- 📫 How to reach me ...
 
 <!---
 justnothing-theDev/justnothing-theDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
